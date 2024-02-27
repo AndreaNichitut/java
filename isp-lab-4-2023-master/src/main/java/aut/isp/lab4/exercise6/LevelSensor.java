@@ -1,0 +1,18 @@
+package aut.isp.lab4.exercise6;
+
+public class LevelSensor {
+    private float value;
+    public LevelSensor()
+    {
+
+        this.value=value;
+    }
+
+    public float getValue() {
+        return value;
+    }
+
+    public void setValue(float value) {
+        this.value = value;
+    }
+}
